@@ -1,5 +1,10 @@
-h1 {
+header {
+	border-radius: 20px;
+	border-bottom: #415151;
 	font-family: 'Oswald', serif;
 	font-weight: bold;
 	background-color: #68CBD1;
+}
+p {
+	font-family: 'Fjord', serif;
 }
